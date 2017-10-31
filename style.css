@@ -1,6 +1,11 @@
-.word {
+.title {
     color: darkcyan;
     text-align: center;
+}
+
+.sub-title {
+    text-align: center;
+    margin-top: -10px;
 }
 
 .console {
